@@ -14,11 +14,7 @@ This toolkit fits **lognormal** and **gamma** distribution models to isotopic tr
 
 ### Online Access
 
-Open the toolkit directly in your browser:
-
-**[Launch TTD Toolkit](index.html)**
-
-Or visit: `https://j-evaristo.github.io/ttd-toolkit-review-7x9k2m/`
+Open the toolkit directly in your browser: https://j-evaristo.github.io/ttd-toolkit-review-7x9k2m/
 
 ### Local Access
 
