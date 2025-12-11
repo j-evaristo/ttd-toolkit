@@ -83,11 +83,11 @@ Download results as CSV from the Export tab for further analysis or reporting.
 | Date column | Sampling dates | Yes |
 | δ²H column | Isotope values (raw or normalized) | Yes |
 | Reference date | Tracer injection date | Yes |
-| Sample depth | Depth below surface (cm) | Optional* |
+| Sample depth | Depth below surface (soils) or tree height (cm) | Yes* |
 | Background δ²H | Pre-labeling isotope value | If not normalized |
 | Pulse δ²H | Tracer isotope value | If not normalized |
 
-*Required for pore water velocity calculation
+*Required for pore water velocity calculation; tree height where measurement is made.
 
 ## Technical Implementation
 
