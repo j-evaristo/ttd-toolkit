@@ -140,9 +140,15 @@ Tested and working in:
 
 ## Citation
 
-If you use this toolkit in your research, please cite:
+If you use this toolkit in your research, please cite both the paper and software:
 
+**Paper:**
 > Evaristo, J., Wright, C.W., Bauser, H., Knighton, J.K., Johnson, D., Kim, M. (2026). Tracer Labeling and Transit Time Modeling in Soil-Plant Systems: Perspectives and a Call for Broader Dialogue in Ecohydrology. *Ecohydrology*. DOI: [10.1002/eco.70182](https://doi.org/10.1002/eco.70182)
+
+**Software:**
+> Evaristo, J., Wright, C.W., Bauser, H., Knighton, J.K., Johnson, D., Kim, M. (2026). TTD Toolkit (v1.0). Zenodo. DOI: [10.5281/zenodo.18318447](https://doi.org/10.5281/zenodo.18318447)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18318447.svg)](https://doi.org/10.5281/zenodo.18318447)
 
 ## Contact
 
